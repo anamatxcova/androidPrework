@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="intro">Hello World! You\'ve been blessed by a grumpy cat Taco</string>
+    <string name="say_hello">Say Hello!</string>
+    <string name="Reply">Hello to you too!</string>
+</resources>
